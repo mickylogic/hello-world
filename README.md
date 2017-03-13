@@ -1,2 +1,4 @@
 # hello-world
 School/work placement project. Line following robot based on arduino uno, possibly with an arm 
+
+Hello there, I am a mechatronics engineering student who has to complete a project for  automating the removal of door skins from a CNC folder, and moving to the stage of production, which is the spot welder. I have decided to prototype this on a small scale by using an arduino UNO. The have some Electronics experience from classes and am only going to start programming experience in class. My experience of programming is obviously more novice, but I am happy to take code, modify it and learn to program where possible. If feasible i will add an arm to remove the door skins or else, a conveyor belt or other extension on the CNC Salvignini machine. I will model this using solidworks and the frame of the robot as well.
